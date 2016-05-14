@@ -43,11 +43,17 @@ There will be a total of 4 characters:
 Controls
 
 W - LOOK UP
+
 S - LOOK DOWN
+
 A - LEFT
+
 D - RIGHT
+
 LEFT MOUSE CLICK - SHOOT
+
 SPACEBAR - JUMP
+
 
  
 
